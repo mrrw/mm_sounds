@@ -9,16 +9,16 @@ contents and intentions of this database.
 
 ### SITE MAP:
 	mm-sounds			# Main folder 
-	├── antimusic	# raw soundscapes and field recordings
-	├── demos			# rough recordings of songwriting efforts
+	├── antimusic		# raw soundscapes and field recordings
+	├── demos		# rough recordings of songwriting efforts
 	├── dirivitives		# MM works remixed by others
-	│   └── CREDITS.txt # list of personnel and contributions
+	│   └── CREDITS.txt 	# list of authors and works
 	├── music		# digestible music products 	
 	│   └── _resources	# usable raw tracks and samples
-	│   └── finished		# finished products ready for release
+	│   └── finished	# finished products ready for release
 	│   └── unfinished	# unfinished music products
 	├── CC_howto.txt	# Creative Commons licensing deep-dive
-	└── README.txt (you are here!)
+	└── README.txt		# you are here!
 
 ### HELPFUL DEFINITIONS:
 	Sound - An umbrella term that spans from music to noise.
