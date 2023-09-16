@@ -1,5 +1,5 @@
 Hello!  This readme is intended to guide you and others through the
-contents and intentions of this sound database.  
+contents and intentions of this database.  
 
 ### TABLE OF CONTENTS:
 	Site Map 		
