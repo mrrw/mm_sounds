@@ -1,6 +1,9 @@
 Hello!  This readme is intended to guide you and others through the
 contents and intentions of this database.  
 
+This is a work in progress.  Feel free to review previous versions
+found in github@mrrw.
+
 ### TABLE OF CONTENTS:
 	Site Map 		
 	Helpful Definitions 
@@ -11,7 +14,7 @@ contents and intentions of this database.
 	mm-sounds			# Main folder 
 	├── antimusic		# raw soundscapes and field recordings
 	├── demos		# rough recordings of songwriting efforts
-	├── dirivitives		# MM works remixed by others
+	├── derivitives		# MM works remixed by others
 	│   └── CREDITS.txt 	# list of authors and works
 	├── music		# digestible music products 	
 	│   └── _resources	# usable raw tracks and samples

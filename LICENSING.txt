@@ -7,7 +7,7 @@ Attribution-NonCommercial-NoDerivitives 4.0 International license
 	as you attribute authorship to Michael Milk, the material is not
 	being used for commercial purposes, and the work is unaltered.
 
-Any dirivitive work shall be covered under a Creative Commons 
+Any derivitive work shall be covered under a Creative Commons 
 Attribution-NonCommercial-NoDerivitives 4.0 International license
 (CC BY-NC-ND) by Michael Milk and any additional authors.
 
